@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction System (Jaipur Real Estate)
+# 🏡 House Price Prediction System
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)](https://streamlit.io/)
